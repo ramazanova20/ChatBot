@@ -1,0 +1,39 @@
+{
+    "chat": [
+         {
+      "id": "1",
+      "question": "Hello, Chat with me",
+      "answer": "Hi there 👋 Welcome! How can I assist you today?"
+    },
+    {
+      "id": "3",
+      "question": "How to contact support?",
+      "answer": "You can reach our support team at support@example.com 📧 or call +123 456 789."
+    },
+    {
+      "id": "4",
+      "question": "What are your working hours?",
+      "answer": "Our working hours are Monday to Friday, from 9:00 AM to 6:00 PM"
+    },
+    {
+      "id": "5",
+      "question": "Where are you located?",
+      "answer": "Our office is located at Warsaw"
+    },
+    {
+      "id": "6",
+      "question": "Tell me about pricing",
+      "answer": "We offer Basic, Standard, and Premium plans 💵. Visit our Pricing page for detailed information."
+    },
+    {
+      "id": "7",
+      "question": "Can you help me with my order?",
+      "answer": "Of course! Please provide your order number and I’ll check the status for you"
+    },
+    {
+      "id": "8",
+      "question": "Do you have a refund policy?",
+      "answer": "Yes ✅ You can request a refund within 14 days of your purchase. Terms and conditions apply."
+    }
+    ]
+}
