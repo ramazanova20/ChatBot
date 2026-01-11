@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import Lottie from "lottie-react";
 import robotAnimation from "../../assets/robot_says_hello.json";
 import Fag from "./Fag"; 
-import { IoIosCloseCircleOutline } from "react-icons/io";
+// import { IoIosCloseCircleOutline } from "react-icons/io";
+import { IoIosCloseCircleOutline } from "react-icons/io5";
 
 function Main() {
   const [open, setOpen] = useState(false);
